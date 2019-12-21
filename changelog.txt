@@ -1,4 +1,9 @@
-﻿2.7 - 26.04.19 *Serverversion* & *LokalVersion*
+3.0 - 21.12.19 PHP-Verion
+- Supermicha - komplett neugeschrieben auf PHP-Basis
+- Supermicha - Button-Seite hinzugefügt (Beta)
+- Supermicha - neue Info-Seite hinzugefügt
+
+2.7 - 26.04.19 *Serverversion* & *LokalVersion*
 - HoerMirAuf - HTML Seite generieren Funktion hinzugefügt
 
 2.6.1 - 25.04.19 *Serverversion*
