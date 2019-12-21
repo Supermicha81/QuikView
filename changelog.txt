@@ -1,0 +1,97 @@
+﻿2.7 - 26.04.19 *Serverversion* & *LokalVersion*
+- HoerMirAuf - HTML Seite generieren Funktion hinzugefügt
+
+2.6.1 - 25.04.19 *Serverversion*
+- HoerMirAuf - Bugfix Leerzeile
+
+2.6 - 21.04.19 *Serverversion*
+- HoerMirAuf
+  - Bugfix 
+
+2.5.2 -10.04.19
+- Supermicha - kleine Änderung im Button-Style
+
+2.5.1 - 10.04.19
+- HoerMirAuf - Edierungdfunktion der Konfigseiten hinzugefügt
+
+2.5 - 10.04.19
+- HoerMirAuf - Neue Seite für Button-Konfiguration hinzugefügt
+- HoerMirAuf - Frei definierbare Buttons hinzugefügt
+- Supermicha - kleinere CSS-Änderungen
+- Supermicha - neue Geräte, falls das iFrame zur Konsolenansicht genutzt wird.
+- Supermicha - Links zeigen jetzt an, auf welcher Seite man grade ist.
+
+2.4.1 - 06.04.19
+- Supermicha - Changelog in neue Seite integriert
+
+2.4 - 05.04.19
+- HoerMirAuf - Gerätebezeichnungen angepasst
+- Supermicha - Hilfeseite erstellt
+- Supermicha - einige Tooltips hinzugefügt
+- Supermicha - Ein paar Style-Anpassungen der Config-Seite
+- Supermicha - Neue devices eingefügt (_MOD) für Tasmota-Mod Versionen von Reloxx13
+- HoerMirAuf - Device Style Verwaltung auf Konfigseite verschoben
+- HoerMirAuf - Bezeichnungsspalte (Name) eingefügt
+- HoermirAuf - Konfigseite erweitert um Button ein-/auszublenden
+- HoerMirAuf - Java Code für Konfigseite überarbeitet
+
+2.3 - 02.04.19
+- HoerMirAuf - Device Style Verwaltung komplett in device.css ausgelagert
+
+2.2.3 - 01.04.19
+- HoerMirAuf - Neue Geräte hinzugefügt
+
+2.2.2 - 01.04.19
+- HoerMirAuf - IE11 Download Funbktion
+
+2.2.1 - 01.04.19
+- HoerMirAuf - Bugfix IE11 xmlHTTPRequest 
+- HoerMirAuf - Bugfix Shelly Device
+ 
+2.2 - 31.03.19
+- HoerMirAuf - Konfiguartionsseite hinzugefügt
+- Supermicha - Design der Konfig-Seite überarbeitet
+- Supermicha - einige Dateinamen umbenannt
+
+2.1.1 - 29.03.19
+- HoerMirAuf - Configfile Namenänderung
+- HoerMirAuf - Geräteabfrage geändert
+- HoerMirAuf - Bugfix
+
+2.1 - 29.03.19
+- HoerMirAuf - Benutzer und Passwort Verarbeitung über config ergänzt
+
+2.0 
+- HoerMirAuf - config.txt für einfache Gerätekonfiguration per Javascript erstellt
+
+1.9
+- Supermicha - Dark-Theme und Theme-Switcher hinzugefügt
+- Supermicha - Farbthemes aus style.css ausgelagert in separate Styles
+
+1.8
+- Supermicha - Überschrift ist jetzt ein Button
+- Supermicha - Der Rahmen um die Geräte schließt jetzt Buttons und Überschrift mit ein.
+- Supermicha - Stylesheets ausgelagert in einzelne Datein.
+
+(1.7)
+- Supermicha - Buttons unter das iFrame verschoben
+- Supermicha - Design der Buttons leicht angepasst
+
+1.6
+- Supermicha - Buttons hinzugefügt
+
+1.5
+- Supermicha - Zoom repariert
+- Supermicha - Container sind jetzt gleich groß
+- Supermicha - Kommentare eingefügt
+
+(1.4)
+- Supermicha - Zoom der iFrames hinzugefügt
+
+1.3
+- Supermicha - Überschriften eingefügt
+
+1.2 
+- Supermicha - erste veröffentlichte Version
+
+
