@@ -1,0 +1,68 @@
+.devicebox {  /*für neue Buttons und Info-Seite*/
+	float:left;
+	display: grid;
+ 	width: 242px;
+	background-color: #252525;
+	border-radius: 5px;
+	margin-bottom: 5px;
+	margin-left: 5px;
+}
+.namebox { /*devicebox oberste Zeile mit IP und Bezeichung*/
+	grid-area: 1/1/auto/auto;
+	height: 2em;
+	line-height: 1.6em;
+	margin-top: 5px;
+}
+.devicename { /*devicebox 2te Zeile mit FriedlyName*/
+	grid-area: 2/1/auto/auto;
+	color: #ececec;
+	font-size: 1.2em;
+	height: 1.5em;
+}
+.buttonbox { /*devicebox 3te Zeile Box für alle Schalter*/
+	grid-area: 3/1/auto/auto;
+	display: flex;
+	width: 100%;
+	height: 6em;
+	margin-left: auto;
+	margin-right: auto;
+}
+.singlebuttonbox { /*in buttonbox Box für jeden einzelnen Schalter*/
+	display: grid;
+	float: left;
+	line-height: 0.9em;
+	width: 25%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.buttonname { /*in singlebuttonbox Schaltername*/
+	grid-area: 1/1/auto/auto;
+	color: #ececec;
+	font-size: 0.6em;
+	line-height: 0.8em;
+	text-align: center;
+	height: 2em;
+	width: 100%;
+	overflow: hidden;
+	margin-left: auto;
+	margin-right: auto;
+}
+.buttonstatus { /*in singlebuttonbox Schaltzustand mit Buttons*/
+	grid-area: 2/1/auto/auto;
+}
+.optionbox { /*in devicebox 4te Zeile Buttons*/
+	grid-area: 4/1/auto/auto;
+	float: left;
+	margin-top: 10px;
+	height: 1.5em;
+}
+.textbox { /*devicebox 3te Zeile Box für Statusinfos*/
+	grid-area: 3/1/auto/auto;
+	color: white;
+	font-size: small;
+	width: 100%;
+	white-space: nowrap;
+	margin-left: auto;
+	margin-right: auto;
+}

@@ -1,0 +1,86 @@
+body {
+	background-color:#000000;
+}
+#window {
+	border: 1px solid #00324d;
+	background-color:#252525;
+}
+#info {
+	color:#1fa3ec;
+}
+#title {
+	background: linear-gradient(to bottom, #4f9bd6 0%,#002e54 100%);
+	color:white;
+	border-color: #002e54;
+}
+#redtitle {
+	background: linear-gradient(to bottom, #cc4747 0%,#561111 100%);
+	color:white;
+	border-color: #561111;
+}
+#container {
+	border-color:#1fa3ec;
+	color: #1fa3ec;
+	background-color:#00458f;
+}
+a {
+	color:black;
+}
+a:hover	{
+	background: linear-gradient(to bottom, #406dad 0%,#001c38 100%);
+    border-color: #001c38;
+}
+header {
+	color:#1fa3ec;
+	background-color:#000000;
+}
+footer {
+	color:#1fa3ec;
+	background-color:#000000;
+}
+article {
+	border-color:#1b5989;
+	color: #1fa3ec;
+	background-color:#252525;
+	border-width: 1px;
+}
+h1 {
+	background: linear-gradient(to bottom, #aad9ff 0%,#1b5989 100%);
+	color: black;
+}
+.button {
+	background: linear-gradient(to bottom, #4f9bd6 0%,#002e54 100%);
+	color:white;
+	border-color: #002e54;
+	cursor: pointer;
+}
+.bigbutton {
+	background: linear-gradient(to bottom, #4f9bd6 0%,#002e54 100%);
+	color:white;
+	border-color: #002e54;
+	cursor: pointer;
+}
+.redbutton {
+	background: linear-gradient(to bottom, #ff7575 0%,#9b2b29 100%);
+	color:white;
+    border-color: #9b2b29;
+	cursor: pointer;
+}
+.active {
+	background: linear-gradient(to bottom, #4f9bd6 0%,#002e54 100%);
+	color:white;
+	border-color: #002e54;
+	cursor: default;
+	box-shadow:red 0px 0px 15px 2px;
+}
+.redactive {
+	background: linear-gradient(to bottom, #ff7575 0%,#9b2b29 100%);
+	color:white;
+    border-color: #9b2b29;
+	cursor: default;
+	box-shadow:red 0px 0px 15px 2px;
+}
+.headline {
+	background:#1fa3ec;
+	color:#130808;	
+}

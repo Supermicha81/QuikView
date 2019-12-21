@@ -1,0 +1,48 @@
+.Basic {
+	width:370px;
+	height:275px;
+	padding-top:5px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:75px;
+}
+.Dual {
+	width:370px;
+	height:265px;
+	padding-top:5px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom:85px;
+}
+.FourCH {
+	width:400px;
+	height:285px;
+	padding-top:5px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:65px;
+}
+.LED {
+	width:370px;
+	height:345px;
+	padding-top:5px;
+	padding-left:15px;
+	padding-right:15px;
+	padding-bottom: 5px;
+}
+.info {
+	width:400px;
+	height:400px;
+	padding-top:5px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;	
+}
+.setup {
+	width:400px;
+	height:790px;
+	padding-top:5px;
+	padding-left:0px;
+	padding-right:0px;
+	padding-bottom:0px;	
+}

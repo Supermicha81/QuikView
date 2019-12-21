@@ -1,0 +1,25 @@
+form {
+	line-height: 1;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+input, label {
+	display:inline-block;
+	text-align: center;
+	padding: 3px;
+	border-width: 1px;
+	border-color: #002e54;
+	background-color: #1b5989;
+	color: #ffffff;
+	border-style: solid;
+	border-radius: 2px;
+	width: 22%;
+}
+.upload {
+	width: initial;
+}
+input:focus{
+	background-color: #002e54;
+}
