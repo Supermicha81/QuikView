@@ -4,8 +4,6 @@
         <?php if ($thisPage=="Buttons") echo '<span class="button active">Buttons (Beta)</span>'; else echo '<a class="button blue" href="buttons.php">Buttons (Beta)</a>'?>
         <?php if ($thisPage=="Info") echo '<span class="button active">Info</span>'; else echo '<a class="button blue" href="info.php">Info</a>'?>
         <?php if ($thisPage=="InfoNEU") echo '<span class="button active">InfoNEU</span>'; else echo '<a class="button blue" href="infoNEU.php">InfoNEU</a>'?>
-        <?php if ($thisPage=="VIS") echo '<span class="button active">VIS</span>'; else echo '<a class="button blue" href="VISframe.php">VIS</a>'?>
-        
     </span>
     <span id="title">QuikView</span>
     <span id="right">
