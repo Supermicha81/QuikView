@@ -133,14 +133,15 @@ article {
 	color: #1fa3ec;
 	background-color:#252525;
 	margin: auto;
+	margin-top: 10px;
 	margin-bottom: 10px;
 	padding-bottom: 10px;
-	width: 65%;
+	width: 50%;
 	min-width: 600px;
 	border-radius: 2px;
 	border-width: 2px;
 	border-style: solid;
-	line-height: 1.5;
+	line-height: 2.5;
 }
 h1 {
 	background: linear-gradient(to bottom, #4f9bd6 0%,#002e54 100%);
@@ -169,9 +170,6 @@ h2 {
 	margin: 0px;
 	margin-bottom: 5px;
 	border-radius: 2px;
-}
-span.red { /* roter Text neue Infoseite*/
-	color:red;
 }
 span.highlight { /*blauer Text fett neue Infoseite*/
 	color:rgb(135, 161, 209);
