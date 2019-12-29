@@ -1,3 +1,6 @@
+3.0.2 - 29.12.19
+- kleinere optische Änderungen
+
 3.0 - 21.12.19 PHP-Verion
 - Supermicha - komplett neugeschrieben auf PHP-Basis
 - Supermicha - Button-Seite hinzugefügt (Beta)
